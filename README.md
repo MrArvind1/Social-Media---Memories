@@ -1,6 +1,6 @@
 
 
-# Social-Media--MEMORIES
+# Social Media-MEMORIES
 
 Created using React, Node.js, Express & MongoDB - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
