@@ -1,0 +1,13 @@
+# dependencies
+/server/node_modules
+/client/node_modules
+
+# env
+/server/.env
+
+# misc
+/client/.gitignore
+/client/package-lock.json
+/client/README.md
+
+/server/package-lock.json
